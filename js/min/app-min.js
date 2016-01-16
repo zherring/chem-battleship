@@ -1,0 +1,1 @@
+"use strict";var battleChemship=angular.module("battleChemship",[]);

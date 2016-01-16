@@ -1,0 +1,1 @@
+battleChemship.controller("mainGame",["$scope",function(e){e.test="burp"}]);
